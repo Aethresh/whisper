@@ -1,0 +1,17 @@
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 个人语音笔记（不进入版本库，避免以后推到 GitHub 时公开）
+dictation.md
+
+# 测试文件
+jfk.flac
+jfk.flac.txt
+
+# 转写输出 / 词频统计结果（生成物，不入库）
+转写结果/
+词频统计结果.txt
+
+# 语料库（可能很大）
+语料/
